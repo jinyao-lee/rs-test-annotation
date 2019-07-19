@@ -7,6 +7,9 @@ int main() {
     
     std::cout << "Hello" << endl;
     
+    //@@author rjcai-tee
+    std::cout << "Hello" << endl;
+    
     //@@author 
     
     std::cout << "Hello" << endl;
