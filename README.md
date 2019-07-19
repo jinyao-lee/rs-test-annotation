@@ -1,11 +1,3 @@
 # rs-test-annotation
 
-hello!
-
-@@author successfulAuthorTag
-
-hello!
-
-@@author
-
-hello!
+Dummy repo just to test out `@@author` tag in [RepoSense](https://github.com/reposense/RepoSense.git).
