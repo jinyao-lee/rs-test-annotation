@@ -10,6 +10,8 @@ int main() {
     //@@author 
     
     std::cout << "Hello" << endl;
+    std::cout << "Hello" << endl;
+    std::cout << "Hello" << endl;
     
     return 0;
 }
