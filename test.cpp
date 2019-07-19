@@ -3,7 +3,7 @@
 int main() {
     std::cout << "Hello" << endl;
     
-    //@@author successfulAuthorTag
+    //@@author some-randomuser
     
     std::cout << "Hello" << endl;
     
