@@ -12,6 +12,7 @@ int main() {
     
     //@@author 
     
+    std::cout << "HI" << endl;
     std::cout << "Hello" << endl;
     std::cout << "Hello" << endl;
     std::cout << "Hello" << endl;
